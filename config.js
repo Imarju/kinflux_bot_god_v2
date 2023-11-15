@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919131652091', 'grandmaster x', true],
-  ['919131652091', 'arju91', true], 
+  ['919131652091','Arju', true],
+  [''], 
   [''] 
 ] //Number of owners
 
-global.mods = ['919131652091','919131652091','919131652091'] 
-global.prems = ['919131652091', '919131652091', '919131652091']
+global.mods = ['919131652091'] 
+global.prems = ['919131652091','','']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'grandmaster x'
+global.botname = 'Nancy'
 global.premium = 'true'
-global.packname = 'grandmaster x' 
-global.author = 'arju91' 
+global.packname = '💕 Nancy momoland 💕' 
+global.author = 'Arju' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
 global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
@@ -59,7 +59,7 @@ global.fgpyp = ''
 global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
 
 
-global.wait = '*⌛ _grandmaster x loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*💕 Nancy 💕* server processing your request...'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
